@@ -42,7 +42,7 @@
 >기술 스택:  
 >Java 17 / Spring Boot / Gradle / Java Script / MySQL   
 >  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+>[프로젝트 상세 설명](https://github.com/2023-SMHRD-KDT-IOT-4/renewen.git) 참고
 
 ---
 
