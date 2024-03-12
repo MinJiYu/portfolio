@@ -9,8 +9,8 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: raihns118@naver.com
-- 깃헙: https://github.com/MinJiYu
+- 이메일 : raihns118@naver.com
+- Git-Hub : https://github.com/MinJiYu
 
 </br>
 
@@ -23,7 +23,7 @@
 >  
 >개발 기간: 2024.01.04 ~ 2024.01.15  
 >  
->기술 스택:  
+>기술 스택 :  
 >HTML / CSS / Java Script
 >
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-KDT-IOT-4/Bello/tree/new_socket_version)참고
@@ -36,9 +36,9 @@
 >- 웹페이지로 실 발전량, 예상 발전량, 기상정보 등 발전소 관리에 용이한 정보 제공
 >- IoT 기기로 패널 또는 셀 사진 및 구름 사진을 전송하고 웹페이지에서 확인
 >  
->개발 기간: 2024.02.26 ~ 2024.03.12  
+>개발 기간 : 2024.02.26 ~ 2024.03.12  
 >  
->기술 스택:  
+>기술 스택 :  
 >Java 17 / Spring Boot / Gradle / Java Script / MySQL   
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-KDT-IOT-4/renewen.git) 참고
