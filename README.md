@@ -1,7 +1,6 @@
 # portfolio
 # 유민지 포트폴리오
 >캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
-2
 </br>
 
 ## :pushpin: Intro
