@@ -11,13 +11,13 @@
 
 ## :pushpin: Contact
 - 이메일: raihns118@naver.com
-- - 깃헙: https://github.com/JungHyung2
+- 깃헙: https://github.com/JungHyung2
 
 </br>
 
 ## :pushpin: Projects
 ### 1. [첫 번째 프로젝트](https://github.com/2023-SMHRD-KDT-IOT-4/Bello/tree/new_socket_version)
->IoT기반 스마트 도어벨 서비스
+>IoT기반 스마트 도어벨 서비스 (팀 프로젝트)
 >개발 기간: 2024.01.04 ~ 2024.01.15  
 >  
 >기술 스택:  
@@ -26,13 +26,15 @@
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [두 번째 프로젝트](https://github.com/2023-SMHRD-KDT-IOT-4/renewen.git)
+>AIOT,LSTM 모델을 활용한 태양광 발전량 예측  (팀 프로젝트)
+>- LSTM 모델을 활용한 태양광 발전량 예측
+>- 웹페이지로 실 발전량, 예상 발전량, 기상정보 등 발전소 관리에 용이한 정보 제공
+>- IoT 기기로 패널 또는 셀 사진 및 구름 사진을 전송하고 웹페이지에서 확인
+>개발 기간: 2024.02.27 ~ 2024.03.12  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 17 / Spring Boot / Gradle / Java Script / MySQL   
 >  
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
 
