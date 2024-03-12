@@ -17,8 +17,8 @@
 
 ## :pushpin: Projects
 ### 1. [첫 번째 프로젝트](https://github.com/2023-SMHRD-KDT-IOT-4/Bello/tree/new_socket_version)
->스마트 도어벨
->개발 기간: 2023.10.01 ~ 2023.11.05  
+>IoT기반 스마트 도어벨 서비스
+>개발 기간: 2024.01.04 ~ 2024.01.15  
 >  
 >기술 스택:  
 >HTML / CSS / Java Script 
