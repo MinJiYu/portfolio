@@ -31,7 +31,7 @@
 ---
 
 ### 2. [두 번째 프로젝트](https://github.com/2023-SMHRD-KDT-IOT-4/renewen.git)
->AIOT,LSTM 모델을 활용한 태양광 발전량 예측  (팀 프로젝트 - TaiYang)
+>AIOT,LSTM 모델을 활용한 태양광 발전량 예측  (팀 프로젝트 - TaiYang (https://www.renewen.kr/))
 >- LSTM 모델을 활용한 태양광 발전량 예측
 >- 웹페이지로 실 발전량, 예상 발전량, 기상정보 등 발전소 관리에 용이한 정보 제공
 >- IoT 기기로 패널 또는 셀 사진 및 구름 사진을 전송하고 웹페이지에서 확인
